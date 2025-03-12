@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|c:\\osobno\\zavrsni rad\\program\\zavrsni rad\\assets\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|c:\\osobno\\zavrsni rad\\program\\zavrsni rad\\assets\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\towerscript\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\towerscript\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\enemyscript\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyscript\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\enemyscript\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyscript\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\towerplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\towerplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\livesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\livesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\assets\\towerscript\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1530953-985D-37B6-68DC-3DEF6EA81580}|Assembly-CSharp.csproj|solutionrelative:assets\\towerscript\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +50,100 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tower.cs",
-              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Tower.cs",
-              "RelativeDocumentMoniker": "Assets\\Tower.cs",
-              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Tower.cs",
-              "RelativeToolTip": "Assets\\Tower.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TowerPlacement.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerPlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\TowerPlacement.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerPlacement.cs",
+              "RelativeToolTip": "Assets\\TowerPlacement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T21:24:27.502Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T22:41:06.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Projectile.cs",
-              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Projectile.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAJAAAAAAAAAA==",
+              "Title": "Mine.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Mine.cs",
+              "RelativeDocumentMoniker": "Assets\\Mine.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\Mine.cs",
+              "RelativeToolTip": "Assets\\Mine.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T22:23:19.129Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-05T10:29:55.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Health.cs",
-              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\EnemyScript\\Health.cs",
-              "RelativeDocumentMoniker": "Assets\\EnemyScript\\Health.cs",
-              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\EnemyScript\\Health.cs",
-              "RelativeToolTip": "Assets\\EnemyScript\\Health.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerScript\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\TowerScript\\Projectile.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerScript\\Projectile.cs",
+              "RelativeToolTip": "Assets\\TowerScript\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:19:43.716Z"
+              "WhenOpened": "2025-03-05T00:02:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOver.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\GameOver.cs",
+              "RelativeToolTip": "Assets\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:08:18.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\EndGame.cs",
+              "RelativeDocumentMoniker": "Assets\\EndGame.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\EndGame.cs",
+              "RelativeToolTip": "Assets\\EndGame.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:46:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivesUI.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\LivesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\LivesUI.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\LivesUI.cs",
+              "RelativeToolTip": "Assets\\LivesUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:27:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerScript.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\PlayerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:18:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerScript\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\TowerScript\\Tower.cs",
+              "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\TowerScript\\Tower.cs",
+              "RelativeToolTip": "Assets\\TowerScript\\Tower.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:55:04.308Z"
             },
             {
               "$type": "Document",
@@ -76,7 +153,7 @@
               "RelativeDocumentMoniker": "Assets\\EnemyScript\\Spawn.cs",
               "ToolTip": "C:\\Osobno\\Zavrsni Rad\\Program\\Zavrsni rad\\Assets\\EnemyScript\\Spawn.cs",
               "RelativeToolTip": "Assets\\EnemyScript\\Spawn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBQwBUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:28:30.988Z"
             }
